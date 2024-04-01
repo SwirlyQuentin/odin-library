@@ -1,0 +1,12 @@
+.display-library p{
+    display: inline-block;
+    margin-right: 5%;
+}
+
+h3{
+    margin: 0;
+}
+
+.display-library input{
+    margin-right: 10%;
+}
